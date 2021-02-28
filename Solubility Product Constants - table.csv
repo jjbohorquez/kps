@@ -1,0 +1,80 @@
+compound,compuesto,formula,ksp
+Aluminum hydroxide,Hidróxido de aluminio,Al(OH)3,3 x 10-34
+Barium carbonate,El carbonato de bario,BaCO3,5.0 x 10-9
+Barium chromate,cromato de bario,BaCrO4,2.1 x 10-10
+Barium hydroxide,El hidróxido de bario,Ba(OH)2_8H2O,3 x 10-4
+Barium iodate,yodato de bario,Ba(IO3)2,1.57 x 10-9
+Barium oxalate,oxalato de bario,BaC2O4,1 x 10-6
+Barium sulfate,Sulfato de bario,BaSO4,1.1 x 10-10
+Cadmium carbonate,carbonato de cadmio,CdCO3,1.8 x 10-14
+Cadmium hydroxide,hidróxido de cadmio,Cd(OH)2,4.5 x 10-15
+Cadmium oxalate,oxalato de cadmio,CdC2O4,9 x 10-8
+Cadmium sulfide,El sulfuro de cadmio,CdS,1 x 10-27
+Calcium carbonate,Carbonato de calcio,CaCO3,4.5 x 10-9 (Calcite) OR 6.0 x10-9 (Aragonite)
+Calcium fluoride,Fluoruro de calcio,CaF2,3.9 x 10-11
+Calcium hydroxide,Hidróxido de calcio,Ca(OH)2,6.5 x 10-6
+Calcium oxalate,Oxalato de calcio,CaC2O4*H2O,1.7 x 10-9
+Calcium sulfate,Sulfato de calcio,CaSO4,2.4 x 10-5
+Cobalt(II) carbonate,Cobalt carbonato (II),CoCO3,1.0 x 10-10
+Cobalt(II) hydroxide,Cobalt hidróxido de (II),Co(OH)2,1.3 x 10-15
+Cobalt(II) sulfide,Cobalt sulfuro (II),CoS,5 x 10-22 (alpha) or 3 x 10-26 (beta)
+Copper(I) bromide,Bromuro de cobre (I),CuBr,5 x 10-9
+Copper(I) chloride,Cloruro de cobre (I),CuCl,1.9 x 10-7
+Copper(I) hydroxide*,Copper (I) de hidróxido *,Cu2O,"2 x 10-15 (""*Cu 2O(s) + H2O -> 2Cu+ + 1 2OH -)"
+Copper(I) iodide,De cobre (I) yoduro,CuI,1 x 10-12
+Copper(I) thiocyanate,De cobre (I) tiocianato,CuSCN,4.0 x 10-14
+Copper(II) hydroxide,Hidróxido de cobre (II),Cu(OH)2,4.8 x 10-20
+Copper(II) sulfide,Sulfuro de cobre (II),CuS,8 x 10-37
+Iron(II) carbonate,Hierro carbonato (II),FeCO3,2.1 x 10-11
+Iron(II) hydroxide,Hierro hidróxido de (II),Fe(OH)2,4.1 x 10-15
+Iron(II) sulfide,Sulfuro de hierro (II),FeS,8 x 10-19
+Iron(III) hydroxide,Hierro hidróxido (III),Fe(OH)3,2 x 10-39
+Lanthanum iodate,yodato de lantano,La(IO3)3,1.0 x 10-11
+Lead carbonate,carbonato de plomo,PbCO3,7.4 x 10-14
+"Lead chloride
+","cloruro de plomo
+",PbCl2,1.7 x 10-5
+Lead chromate,cromato de plomo,PbCrO4,3 x 10-13
+Lead hydroxide,hidróxido de plomo,PbO,"8 x 10-16 (Yellow) or 5 x 10-16 (Red) - ""†
+PbO(s) + H2O -> Pb2+ + 2OH-"""
+Lead iodide,yoduro de plomo,PbI2,7.9 x 10-9
+Lead oxalate,oxalato de plomo,PbC2O4,8.5 x 10-9 (mu=0.05)
+Lead sulfate,sulfato de plomo,PbSO4,1.6 x 10-8
+Lead sulfide,sulfuro de plomo,PbS,3 x 10-28
+Magnesium ammonium phosphate,El magnesio fosfato de amonio,MgNH4PO4,3 x 10-13
+Magnesium carbonate,Carbonato de magnesio,MgCO3,3.5 x 10-8
+Magnesium hydroxide,Hidróxido de magnesio,Mg(OH)2,7.1 x 10-12
+Manganese carbonate,carbonato de manganeso,MnCO3,5.0 x 10-10
+Manganese hydroxide,hidróxido de manganeso,Mn(OH)2,2 x 10-13
+Manganese sulfide,sulfuro de manganeso,MnS,3 x 10-11(Pink) or 3 x 10-14(Green)
+Mercury(I) bromide,El mercurio bromuro de (I),Hg2Br2,5.6 x 10-23
+Mercury(I) carbonate,Mercurio (I) carbonato de,Hg2CO3,8.9 x 10-17
+Mercury(I) chloride,Cloruro de mercurio (I),Hg2Cl2,1.2 x 10-18
+Mercury(I) iodide,Mercurio (I) yoduro,Hg2I2,4.7 x 10-29
+Mercury(I) thiocyanate,El mercurio (I) tiocianato,Hg2(SCN)2,3.0 x 10-20
+Mercury(II) hydroxide,Mercurio hidróxido de (II),HgO,"3.6 x 10-26 (""‡
+HgO(s) + H 2 O -> Hg2+ + 2OH-"")"
+Mercury(II) sulfide,Mercurio sulfuro (II),HgS,2 x 10-53 (Black) or 5 x 10-54 (Red)
+Nickel carbonate,carbonato de níquel,NiCO3,1.3 x 10-7
+Nickel hydroxide,hidróxido de níquel,Ni(OH)2,6 x 10-16
+Nickel sulfide,sulfuro de níquel,NiS,4 x 10-20 (alpha) or 1.3 x 10-25 (beta)
+Silver arsenate,arseniato de plata,Ag3AsO4,6 x 10-23
+Silver bromide,bromuro de plata,AgBr,5.0 x 10-13
+Silver carbonate,carbonato de plata,Ag2CO3,8.1 x 10-12
+Silver chloride,El cloruro de plata,AgCl,1.82 x 10-10
+Silver chromate,cromato de plata,AgCrO4,1.2 x 10-12
+Silver cyanide,cianuro de plata,AgCN,2.2 x 10-16
+Silver iodate,yodato de plata,AgIO3,3.1 x 10-8
+Silver iodide,El yoduro de plata,AgI,8.3 x 10-17
+Silver oxalate,oxalato de plata,Ag2C2O4,3.5 x 10-11
+Silver sulfide,sulfuro de plata,Ag2S,8 x 10-51
+Silver thiocyanate,tiocianato de plata,AgSCN,1.1 x 10-12
+Strontium carbonate,estroncio carbonato,SrCO3,9.3 x 10-10
+Strontium oxalate,El estroncio oxalato,SrC2O4,5 x 10-8
+Strontium sulfate,estroncio sulfato,SrSO4,3.2 x 10-7
+Thallium(I) chloride,Talio cloruro de (I),TlCl,1.8 x 10-4
+Thallium(I) sulfide,Talio sulfuro (I),Tl2S,6 x 10-22
+Zinc carbonate,carbonato de cinc,ZnCO3,1.0 x 10-10
+Zinc hydroxide,hidróxido de zinc,Zn(OH)2,3.0 x 10-16 (Amorphous)
+Zinc oxalate,oxalato de zinc,ZnC2O4,8 x 10-9
+Zinc sulfide,sulfuro de zinc,ZnS,2 x 10-25 (alpha) or 3 x 10-23 (beta) 
